@@ -28,4 +28,4 @@ subjects2=subjects.copy()
 print(subjects2)
 subjects2.clear()
 print(subjects2)
- 
+
