@@ -1,4 +1,6 @@
-Sabrina = Student of  SUST
-Nusrat = Student of  SUST
-Tanhar = Student of  SUST
-Ayvi = Student of  SUST
+Sabrina - Student of  SUST
+Nusrat - Student of  SUST
+Tanhar - Student of  SUST
+Ayvi - Student of  SUST
+Minhaz - Student of  SUST
+Minhaz - Student of  SUST
